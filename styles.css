@@ -24,9 +24,13 @@ p {
 section {
     background-color: white;
     padding: 20px;
-    margin: 20px 0;
+    margin: 20px 5px; /* Add left and right margins */
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section#contact {
+    margin-bottom: 50px; /* Add margin-bottom to create space between the section and footer */
 }
 
 h2 {
