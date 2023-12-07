@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: #37b579;
     color: white;
     text-align: center;
     padding: 20px;
@@ -30,7 +30,7 @@ section {
 }
 
 h2 {
-    color: #333;
+    color: #37b579;
 }
 
 .project {
@@ -38,7 +38,7 @@ h2 {
 }
 
 footer {
-    background-color: #333;
+    background-color: #37b579;
     color: white;
     text-align: center;
     padding: 10px;
