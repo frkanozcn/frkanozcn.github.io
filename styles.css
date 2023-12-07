@@ -24,7 +24,10 @@ p {
 section {
     background-color: white;
     padding: 20px;
-    margin: 20px 5px; /* Add left and right margins */
+	margin-top: 20px;
+	margin-bottom: 20px;
+    margin-left: 5px;
+	margin-right: 5px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
